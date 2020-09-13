@@ -1,6 +1,6 @@
 # fastmac-gui
 
-> Get a MacOS GUI over VNC, for free, in around 5 minutes
+> Get a MacOS GUI over VNC, for free, in around 5 minutes!
 
 This repo extends upon fastmac, enabling the built in MacOS VNC server, doing a hacky workaround to set a VNC password and an admin user account, and adds ngrok to your system to set up a tcp tunnel manually.
 
